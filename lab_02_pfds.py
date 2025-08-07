@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """lab_02_pfds.ipynb"""
 
+#Student Grades Analysis Using NumPy Arrays
+
 import numpy as np
 
 marks = np.array([
